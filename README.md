@@ -1,2 +1,1 @@
-# extensions
-chrome扩展
+# 用vue3和ts开发浏览器扩展
